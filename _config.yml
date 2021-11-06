@@ -1,6 +1,6 @@
-name: Solar Theme
+name: Jeonguk Han's Homepage 
 url: https://jeongukhan.github.io/
-description: A stylish blog using the Solarized color palette
+description: 밤하늘 관측 / 리눅스 시스템 프로그래밍 / ...
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
